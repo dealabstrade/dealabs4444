@@ -8,6 +8,14 @@
             "last_active": "2026-06-18 07:15:26"
         }
     ],
-    "messages": [],
-    "last_updated": "2026-06-18 07:15:22"
+    "messages": [
+        {
+            "id": "6a339be8731b2714",
+            "username": "dealabs",
+            "message": "hello guy&#039;s stopp spamming",
+            "timestamp": "2026-06-18 07:19:04",
+            "ip": "::1"
+        }
+    ],
+    "last_updated": "2026-06-18 07:19:04"
 }
