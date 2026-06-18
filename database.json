@@ -1,5 +1,13 @@
 {
-    "users": [],
+    "users": [
+        {
+            "id": "1781766921449",
+            "username": "dealabs",
+            "password": "$2y$10$gKYdLitJE1tfEXs\/AGNzVeKfGFyKLjl1S0aFZrIYY\/syfa9uO01X.",
+            "created_at": "2026-06-18 07:15:22",
+            "last_active": "2026-06-18 07:15:22"
+        }
+    ],
     "messages": [],
-    "last_updated": "2026-06-18 06:53:43"
+    "last_updated": "2026-06-18 07:15:22"
 }
